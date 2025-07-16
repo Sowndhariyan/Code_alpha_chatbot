@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "Our return policy allows returns within 30 days of purchase with a receipt."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using the tracking link sent to your email."
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to most countries worldwide. Shipping charges may vary."
+  }
+]
